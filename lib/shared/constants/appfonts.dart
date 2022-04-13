@@ -13,6 +13,12 @@ class Appfonts {
     color: Color(0xFFFFFFFF),
     fontSize: 12,
   );
+  static const w40013white = TextStyle(
+    fontFamily: 'Outfit',
+    fontWeight: FontWeight.w400,
+    color: Color(0xFFFFFFFF),
+    fontSize: 13,
+  );
   static const w40016grey = TextStyle(
     fontFamily: 'Outfit',
     fontWeight: FontWeight.w400,
