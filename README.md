@@ -1,16 +1,8 @@
 # blitetaskintern
 
-A new Flutter project.
+A beta screen to the Blite App
 
-## Getting Started
+## Screen Image
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/76565329/163098497-4ec4a7f0-d147-49ea-b778-5a06c5ba0423.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
